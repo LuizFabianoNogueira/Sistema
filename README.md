@@ -1,2 +1,2 @@
 # Sistema
-Sistema basico
+Sistema básico
