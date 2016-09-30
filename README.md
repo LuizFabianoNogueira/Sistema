@@ -1,2 +1,2 @@
 # Sistema
-Sistema LARAVEL
+Sistema basico
